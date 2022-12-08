@@ -28,6 +28,7 @@ check([{ok,[{appl_deployment,_Id,Info}]}|T])->
     io:format("Checking ~p~n",[Info]),
     true=proplists:is_defined(appl_spec,Info),
     true=proplists:is_defined(vsn,Info),
+    true=proplists:is_defined(cluster_spec,Info),
     true=proplists:is_defined(num_instances,Info),
     true=proplists:is_defined(affinity,Info),
     check(T).
