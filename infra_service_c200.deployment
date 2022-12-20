@@ -1,0 +1,8 @@
+{appl_deployment,"infras_service_c200",
+ [{appl_spec,"infras_service"},
+  {vsn,"0.1.0"},	
+  {cluster_spec,"c200"},
+  {num_instances,1 },
+  {affinity,any_host}	
+ ]
+}.
