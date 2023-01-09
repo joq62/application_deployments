@@ -1,7 +1,7 @@
 {appl_deployment,"hw_conbee",
  [{appl_spec,"hw_conbee"},
   {vsn,"0.1.0"},	
-  {cluster_spec,"prototype_c201"},
+  {cluster_spec,"c200_c201"},
   {num_instances,1 },
   {affinity,["c201"]}	
  ]
