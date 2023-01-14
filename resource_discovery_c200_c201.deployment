@@ -1,7 +1,7 @@
 {appl_deployment,"resource_discovery",
  [{appl_spec,"resource_discovery"},
   {vsn,"0.1.0"},	
-  {cluster_spec,"c200"},
+  {cluster_spec,"c200_c201"},
   {num_instances,1 },
   {affinity,each_pod}	
  ]
