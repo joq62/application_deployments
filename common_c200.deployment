@@ -1,4 +1,4 @@
-{appl_deployment,"common",
+{appl_deployment,"common_c200",
  [{appl_spec,"common"},
   {vsn,"0.1.0"},	
   {cluster_spec,"c200"},
