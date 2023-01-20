@@ -1,8 +1,0 @@
-{appl_deployment,"common_c201",
- [{appl_spec,"common"},
-  {vsn,"0.1.0"},	
-  {cluster_spec,"c201"},
-  {num_instances,1 },
-  {affinity,each_pod}	
- ]
-}.
