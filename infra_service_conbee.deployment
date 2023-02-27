@@ -1,5 +1,5 @@
-{appl_deployment,"hw_conbee",
- [{appl_spec,"hw_conbee"},
+{appl_deployment,"infra_service_conbee",
+ [{appl_spec,"infra_service"},
   {vsn,"0.1.0"},	
   {cluster_spec,"conbee"},
   {num_instances,1 },
