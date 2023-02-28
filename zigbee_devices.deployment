@@ -1,0 +1,8 @@
+{appl_deployment,"zigbee_devices",
+ [{appl_spec,"zigbee_devices"},
+  {vsn,"0.1.0"},	
+  {cluster_spec,"conbee"},
+  {num_instances,1 },
+  {affinity,["c201"]}	
+ ]
+}.
