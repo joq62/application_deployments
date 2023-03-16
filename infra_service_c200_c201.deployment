@@ -1,8 +1,0 @@
-{appl_deployment,"infra_service_c200_201",
- [{appl_spec,"infra_service"},
-  {vsn,"0.1.0"},	
-  {cluster_spec,"c200_c201"},
-  {num_instances,1 },
-  {affinity,["c200","c201"]}	
- ]
-}.
