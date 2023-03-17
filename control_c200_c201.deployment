@@ -2,7 +2,7 @@
  [{appl_spec,"control"},
   {vsn,"0.1.0"},	
   {cluster_spec,"c200_c201"},
-  {num_instances,1 },
-  {affinity,["c200"]}	  
+  {num_instances,2},
+  {affinity,["c200","201"]}	  
  ]
 }.
