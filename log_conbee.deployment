@@ -1,0 +1,8 @@
+{appl_deployment,"log_conbee",
+ [{appl_spec,"log"},
+  {vsn,"0.1.0"},	
+  {cluster_spec,"conbee"},
+  {num_instances,2 },
+  {affinity,["c200","c201"]}	  
+ ]
+}.
